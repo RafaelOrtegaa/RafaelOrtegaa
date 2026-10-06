@@ -1,5 +1,5 @@
 ## Quem sou eu?
-<img src="https://cdn-icons-png.flaticon.com/128/1144/1144760.png" width="25" height="25" /> Sou o **Rafael Ortega Cardoso** tenho 17 anos, <ins>estudante do SESI/SENAI</ins>
+<img src="https://cdn-icons-png.flaticon.com/128/1144/1144760.png" width="25" height="25" /> Sou o **Rafael Ortega Cardoso** tenho 18 anos, <ins>estudante do SESI/SENAI</ins>
 
 <img src="https://cdn-icons-png.flaticon.com/128/3474/3474360.png" width="25" height="25" /> Atualmente estou cursando ***Análise e Desenvolvimento de Sistemas*** Na escola <ins>SENAI Conde José Vicente de Azevedo</isn>
 
